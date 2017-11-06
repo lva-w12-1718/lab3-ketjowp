@@ -16,6 +16,7 @@
 		<Item Name="Control 1.ctl" Type="VI" URL="../Control 1.ctl"/>
 		<Item Name="SubVI Tester.vi" Type="VI" URL="../SubVI Tester.vi"/>
 		<Item Name="Temperature Warnings.vi" Type="VI" URL="../Temperature Warnings.vi"/>
+		<Item Name="Windspeed Warnings.vi" Type="VI" URL="../Windspeed Warnings.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
